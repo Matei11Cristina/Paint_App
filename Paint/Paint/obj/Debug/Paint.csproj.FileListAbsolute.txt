@@ -1,0 +1,76 @@
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\MY PC\Downloads\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\MY PC\Downloads\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\MY PC\Downloads\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\MY PC\Downloads\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\Downloads\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\MY PC\Downloads\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\MY PC\Downloads\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\MY PC\Downloads\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\MY PC\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\MY PC\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\MY PC\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\MY PC\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\Desktop\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\MY PC\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\MY PC\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\MY PC\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+G:\Paint\Paint\bin\Debug\Paint.exe.config
+G:\Paint\Paint\bin\Debug\Paint.exe
+G:\Paint\Paint\bin\Debug\Paint.pdb
+G:\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+G:\Paint\Paint\obj\Debug\Paint.MainForm.resources
+G:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+G:\Paint\Paint\obj\Debug\Paint.exe
+G:\Paint\Paint\obj\Debug\Paint.pdb
+G:\UNA\Paint\Paint\bin\Debug\Paint.exe.config
+G:\UNA\Paint\Paint\bin\Debug\Paint.exe
+G:\UNA\Paint\Paint\bin\Debug\Paint.pdb
+G:\UNA\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+G:\UNA\Paint\Paint\obj\Debug\Paint.MainForm.resources
+G:\UNA\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+G:\UNA\Paint\Paint\obj\Debug\Paint.exe
+G:\UNA\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\ANA\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\ANA\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\ANA\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\ANA\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\ANA\Desktop\Os project-Matei Bratucu\Paint\Paint\obj\Debug\Paint.pdb
